@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	border: 5px solid black;
+	display: block;
+}
+
+h2 {
+	font-family: cursive;
+	background: dimgray;
+}
+
+#lista {
+	text-align: left;
+}
+
+
+
+h1 {
+	font-family: inherit;
+	background: red;
+}
+
+
+div {
+	background: lightgray;
+}
+
+
+section {
+	border: 1px solid black;
+}
+
+article {
+	border: 5px solid black;
+}
+
+h3{
+	font-family: cursive;
+}
